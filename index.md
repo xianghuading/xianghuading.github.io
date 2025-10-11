@@ -7,6 +7,8 @@ title:
 I am a Senior Lecturer (Associate Professor) in the School of Computer Science at the University of Glasgow, UK. Before I moved to Glasgow the end of 2021, I was an Associate Professor at Fudan University, Shanghai, China. I received my Ph.D. at the University of California, Irvine, USA. in 2010. At Glasgow, I am running <a href="https://xianghuading.github.io/Care-Computing-Group"> Care Computing Group (CCG)</a>, and leading the brand-new Msc programme in HCI, which is now open for <a href="https://gla.ac/HCI-LI ">applications </a> for 2026:
 {% include embed.html url="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7379091537898651648?compact=1/thumbnails/thumbnail.jpg?time=1s" %}
 
+{% include embed.html url="https://www.youtube.com/embed/J2LjhYq9_pw?si=1FyhCM5yesAQSF3B %}
+
  
 My research involves understanding and designing technologies to promote individual and social well-being. I have looked into social-technical approaches to empowering people for effective health data engagement and health management, with a particular interest in everyday healthy living, mental well-being, and self-management of chronic diseases. Besides healthcare, I have also been studying aging, disability, and sustainability, and exploring approaches including social transparency, crowdsourcing, self-tracking, online community, and mobile sharing to facilitate related social processes. My goal is that computing technologies can be designed to unlock the potential of individuals, support collaborations, and create a positive societal impact. 
 
