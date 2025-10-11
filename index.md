@@ -6,7 +6,7 @@ title:
  ![my profile image](assets/IMG_1320.jpg){: width="45%"}{: style="float: left; margin-right: 3em;"} 
 
 I am a Senior Lecturer (Associate Professor) in the School of Computer Science at the University of Glasgow, UK. Before I moved to Glasgow the end of 2021, I was an Associate Professor at Fudan University, Shanghai, China. I received my Ph.D. at the University of California, Irvine, USA. in 2010. At Glasgow, I am running <a href="https://xianghuading.github.io/Care-Computing-Group"> Care Computing Group (CCG)</a>, and leading the brand-new <a href="https://gla.ac/HCI-LI "> Msc programme in HCI</a>, which is now open for applications for 2026:
-{% include embed.html post=post preview=true %}
+{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" post=post preview=true %}
 <div>
 <iframe title="Embedded post">
  height="550" 
