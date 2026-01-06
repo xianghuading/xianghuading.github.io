@@ -4,9 +4,18 @@ layout: page
 categories: media
 ---
 My work keeps me tied to the computer most of time, so when I am not working, I really enjoy stepping away through hands-on making. I like creating things that are cute, beautiful and sometimes even practical, such as cooking and crocheting. By keeping my hands busy, they help me switch off from work, and stay sane.  
-Some recent works from crocheting:
+
+Some recent works from crocheting.
+
+This my very first crochet project where my crochet journey began:
 ![crocheting](assets/IMG_6853.jpg) 
+
+This horse was created for the new year 2026, which is Chinese horse year:
 ![crocheting](assets/IMG_6944.jpg) 
+
+I've also made something more practical:
+![crocheting](assets/IMG_6990.JPG) 
+
 
 Some recent works from cooking:
 ![cooking](assets/IMG_6836.jpg) 
