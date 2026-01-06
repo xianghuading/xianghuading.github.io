@@ -22,5 +22,5 @@ I am really pleased to find a way to make Douhua myself in the UK:
 ![cooking](assets/IMG_6769.JPG) 
 
 
-When the weather is nice, which is not so usual in Scotland, I also enjoy  <a href="hiking.md">hiking</a> wheven time allows.  
+When the weather is nice, which is not so usual in Scotland, I also enjoy  <a href="https://xianghuading.github.io/hiking">hiking</a> wheven time allows.  
 
