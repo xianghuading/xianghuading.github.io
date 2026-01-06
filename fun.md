@@ -13,11 +13,5 @@ Some recent works from cooking:
 ![cooking](assets/IMG_6769.JPG) 
 
 
-When the weather is nice, which is not so usual in Scotland, I also enjoy hiking wheven time allows.  
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+When the weather is nice, which is not so usual in Scotland, I also enjoy  <a href="hiking.md">hiking</a> wheven time allows.  
+
