@@ -3,7 +3,7 @@ title:
 layout: page
 categories: media
 ---
-My work keeps me tied to the computer most of time, so when I am not working, I really enjoy stepping away through hands-on making. I like creating things that are cute, beautiful and sometimes even practical and edible, through activities such as crocheting and cooking. Below are some of my recent works.
+My work keeps me tied to the computer most of time. When I am not working, I really enjoy hands-on making. I like creating things that are cute, beautiful and sometimes even practical and edible, through activities such as crocheting and cooking. Below are some of my recent works.
 
 ![crocheting](assets/IMG_7010.JPG) 
 *Persimmon. In Chinese, persimmon (柿, "shì" ) sounds like things/matters (事, "shì"), so the picture means "May everything go as you wish", symbolizing good fortune, success, and happiness, often seen during Chinese New Year*
